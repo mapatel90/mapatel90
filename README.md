@@ -19,7 +19,7 @@ I combine **traditional engineering expertise** with **modern AI-powered develop
 * MERN Stack (MongoDB, Express.js, React.js, Node.js)
 * PHP Frameworks (Laravel, CodeIgniter)
 * Perfex CRM Customization
-* MySQL & MongoDB
+* MySQL, MongoDB & PostgresSQL
 * REST API Development
 
 ### ☁️ Cloud & DevOps
